@@ -32,7 +32,16 @@ View [Artifact One Enhacement Repository](https://github.com/shiolive/CS-499/tre
 
 ### Enhancement Two: Algorithms and Data Structures
 
-Overview
+This artifact is a JUnit test case on a CRUD Java application that interacts with a contact, appointment, and task creation system and validates the data entered and tests each function. It was originally created in April 2024 for CS-320 Software Testing course at SNHU. I included this in my portfolio because properly testing software is a vital part of any application and I believe it is an important skill. When I originally did this project in particular, I did not fully understand JUnit tests or the logic of software testing as a whole. Therefore, this project needed many revisions and was a great place for me to better my skills in building software tests. 
+
+My plan was to increase the complexity of the application itself as well as the tests. I also planned to increase the coverage and fill the gaps in the tests to ensure that the application was well rounded and thoroughly tested. To complete this, I reviewed each java class alongside the associated test classes and identified numerous logic errors and gaps in the testing. A common error that I found were that I created the tests to test for successes in adding and updating the data, but I did not test to see if there were failures. By correcting this gap in logic, I was able to identify issues in the application structure itself as well. I corrected all of these errors and rewrote all of the tests for the program to make them more complex and more thorough. My coverage overall went from 78.6% to 92.7% with significant increases in coverage in the individual Java classes. 
+
+Before Improvements: 
+
+
+After Improvements: 
+
+
 
 Link to resource
 
