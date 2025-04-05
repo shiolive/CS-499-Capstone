@@ -16,7 +16,7 @@ Professional Self assessment here
 
 Overview of Code Review
 
-[![Watch the video](https://img.youtube.com/vi/S8QaOK-XVL4/maxresdefault.jpg)](https://youtu.be/S8QaOK-XVL4)]
+[![Watch the video](https://img.youtube.com/vi/S8QaOK-XVL4/maxresdefault.jpg)](https://youtu.be/S8QaOK-XVL4)
 
 ### [CS-499 Code Review](https://youtu.be/S8QaOK-XVL4)
 
@@ -42,7 +42,7 @@ Before Improvements:
 
 ![Original test coverage- Before Enhancement](https://github.com/shiolive/CS-499/blob/main/_assets/img/Artifact2%20Before%20Enhancement.png)
 
-[![Original test coverage- Before Enhancement](_assets/img/Artifact2%20Before%20Enhancement.png)
+![Original test coverage- Before Enhancement](_assets/img/Artifact2%20Before%20Enhancement.png)
 
 <div style="text-align: center;">
     <a href="https://github.com/shiolive/CS-499/blob/main/_assets/img/Artifact2%20Before%20Enhancement.png" target="_blank">
@@ -55,7 +55,7 @@ After Improvements:
 
 <img src="https://raw.githubusercontent.com/shiolive/shiolive.github.io/CS-499/_assets/img/Artifact2%20After%20Enhancement.png"
 
-[![Test coverage after enhancement](https://github.com/shiolive/CS-499/blob/main/_assets/img/Artifact2%20After%20Enhancement.png)
+![Test coverage after enhancement](https://github.com/shiolive/CS-499/blob/main/_assets/img/Artifact2%20After%20Enhancement.png)
 
 ![Test coverage after enhancement](_assets/img/Artifact2%20After%20Enhancement.png)
 
