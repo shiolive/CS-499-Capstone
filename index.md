@@ -44,6 +44,13 @@ Before Improvements:
 
 [![Original test coverage- Before Enhancement](_assets/img/Artifact2%20Before%20Enhancement.png)
 
+<div style="text-align: center;">
+    <a href="https://github.com/shiolive/CS-499/blob/main/_assets/img/Artifact2%20Before%20Enhancement.png" target="_blank">
+		<img src="_assets/img/Artifact2 Before Enhancement.png" width="720px" title="Original test coverage- Before Enhancement" />
+	</a>
+    <p><em>Original test coverage- Before Enhancement</em></p>
+</div>
+
 After Improvements: 
 
 <img src="https://raw.githubusercontent.com/shiolive/shiolive.github.io/CS-499/_assets/img/Artifact2%20After%20Enhancement.png"
@@ -51,6 +58,13 @@ After Improvements:
 [![Test coverage after enhancement](https://github.com/shiolive/CS-499/blob/main/_assets/img/Artifact2%20After%20Enhancement.png)
 
 ![Test coverage after enhancement](_assets/img/Artifact2%20After%20Enhancement.png)
+
+<div style="text-align: center;">
+    <a href="https://github.com/shiolive/CS-499/blob/main/_assets/img/Artifact2%20After%20Enhancement.png" target="_blank">
+		<img src="_assets/img/Artifact2 After Enhancement.png" width="720px" title="Test coverage after enhancement" />
+	</a>
+    <p><em>Test coverage after enhancement</em></p>
+</div>
 
 View [Artifact Two Enhancement Repository](https://github.com/shiolive/CS-499/tree/main/Artifacts/Artifact%20Two)
 
