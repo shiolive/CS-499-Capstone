@@ -38,11 +38,15 @@ My plan was to increase the complexity of the application itself as well as the 
 
 Before Improvements: 
 
+<img src="../_assets/img/Artifact2%20Before%20Enhancement.png">
+
 ![Original test coverage- Before Enhancement](https://github.com/shiolive/CS-499/blob/main/_assets/img/Artifact2%20Before%20Enhancement.png)
 
 [![Original test coverage- Before Enhancement](_assets/img/Artifact2%20Before%20Enhancement.png)
 
 After Improvements: 
+
+<img src="https://raw.githubusercontent.com/shiolive/shiolive.github.io/CS-499/_assets/img/Artifact2%20After%20Enhancement.png"
 
 [![Test coverage after enhancement](https://github.com/shiolive/CS-499/blob/main/_assets/img/Artifact2%20After%20Enhancement.png)
 
