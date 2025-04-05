@@ -19,7 +19,8 @@ Overview of Code Review
 
 {% include youtube.html id="S8QaOK-XVL4" %}
 
-#### Enhancement One: Software Design and Engineering
+
+### Enhancement One: Software Design and Engineering
 
 This artifact is a weight tracking application created in Android Studio utilizing Java for the base, XML for the UI, and SQLite for the database. It is an android application that allows a user to log their weight to track their weight over time, set a goal, receive notifications, and view their data in multiple ways. It was originally created in October 2024 for the SNHU CS-360 Mobile Architecture course. I selected this item because it is a full stack mobile application that I will be able to make significant improvements on and will be able to show my software engineering and design skills comprehensively.  
 
@@ -38,22 +39,22 @@ My plan was to increase the complexity of the application itself as well as the 
 
 Before Improvements: 
 
-![Original test coverage- Before Enhancement](_assets/img/Artifact2Before.png)
+![Original test coverage- Before Enhancement](assets/img/Artifact2Before.png)
 
 <div style="text-align: center;">
-    <a href="https://github.com/shiolive/CS-499-Capstone/blob/main/_assets/img/Artifact2Before.png" target="_blank">
-        <img src="_assets/img/Artifact2Before.png" width="720px" title="Original test coverage- Before Enhancement" />
+    <a href="https://github.com/shiolive/CS-499-Capstone/blob/main/assets/img/Artifact2Before.png" target="_blank">
+        <img src="assets/img/Artifact2Before.png" width="720px" title="Original test coverage- Before Enhancement" />
     </a>
     <p><em>Original test coverage- Before Enhancement</em></p>
 </div>
 
 After Improvements: 
 
-![Test coverage after enhancement](_assets/img/Artifact2After.png)
+![Test coverage after enhancement](assets/img/Artifact2After.png)
 
 <div style="text-align: center;">
-    <a href="https://github.com/shiolive/CS-499-Capstone/blob/main/_assets/img/Artifact2After.png" target="_blank">
-        <img src="_assets/img/Artifact2After.png" width="720px" title="Test coverage after enhancement" />
+    <a href="https://github.com/shiolive/CS-499-Capstone/blob/main/assets/img/Artifact2After.png" target="_blank">
+        <img src="assets/img/Artifact2After.png" width="720px" title="Test coverage after enhancement" />
     </a>
     <p><em>Test coverage after enhancement</em></p>
 </div>
