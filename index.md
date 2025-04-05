@@ -38,11 +38,15 @@ My plan was to increase the complexity of the application itself as well as the 
 
 Before Improvements: 
 
-![Before](https://github.com/shiolive/CS-499/blob/main/_assets/img/Artifact2%20Before%20Enhancement.png)
+![Original test coverage- Before Enhancement](https://github.com/shiolive/CS-499/blob/main/_assets/img/Artifact2%20Before%20Enhancement.png)
+
+![Original test coverage- Before Enhancement](_assets/img/Artifact2%20Before%20Enhancement.png)
 
 After Improvements: 
 
-![After](_assets/img/Artifact2 After Enhancement.png?raw=true){width=400px}
+![Test coverage after enhancement](https://github.com/shiolive/CS-499/blob/main/_assets/img/Artifact2%20After%20Enhancement.png)
+
+![Test coverage after enhancement](_assets/img/Artifact2%20After%20Enhancement.png)
 
 View [Artifact Two Enhancement Repository](https://github.com/shiolive/CS-499/tree/main/Artifacts/Artifact%20Two)
 
