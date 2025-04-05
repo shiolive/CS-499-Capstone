@@ -42,7 +42,7 @@ Before Improvements:
 
 After Improvements: 
 
-![After](_assets/img/Artifact2 After Enhancement.png)
+![After](_assets/img/Artifact2 After Enhancement.png?raw=true){width=400px}
 
 View [Artifact Two Enhancement Repository](https://github.com/shiolive/CS-499/tree/main/Artifacts/Artifact%20Two)
 
