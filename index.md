@@ -38,7 +38,7 @@ My plan was to increase the complexity of the application itself as well as the 
 
 Before Improvements: 
 
-![Before]([_assets/img/Artifact2 After Enhancement.png](https://github.com/shiolive/CS-499/blob/main/_assets/img/Artifact2%20Before%20Enhancement.png))
+![Before](https://github.com/shiolive/CS-499/blob/main/_assets/img/Artifact2%20Before%20Enhancement.png)
 
 After Improvements: 
 
