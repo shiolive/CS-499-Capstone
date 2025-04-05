@@ -17,7 +17,9 @@ Professional Self assessment here
 
 Overview of Code Review
 
-{% include youtube.html id="S8QaOK-XVL4" %}
+[![Watch the video](https://img.youtube.com/vi/S8QaOK-XVL4/maxresdefault.jpg)](https://youtu.be/S8QaOK-XVL4)
+
+### [CS-499 Code Review](https://youtu.be/S8QaOK-XVL4)
 
 
 ### Enhancement One: Software Design and Engineering
@@ -28,7 +30,7 @@ The main area that I chose to focus on to showcase my skills was the main activi
 
 The process of improving this application ended up being much more difficult than I anticipated. The biggest challenge was getting the graph set up. The resources that I could find online to educate myself on the GraphView library were limited. The primary challenge with setting up the graph was being able to have the X axis be dates and have them populate correctly with the corresponding data. It required me to rethink how a significant portion of my main activity and database operated and ended up requiring me to rebuild a significant portion of the way that it worked. I ended up finding it necessary to populate the date for the user which required me to also adjust how records were added to the database. Overall, with the research I was able to find and trying different techniques and troubleshooting them until I found what worked for my project, I was able to overcome this challenge and my application ended up better for it. 
 
-View [Artifact One Repository](https://github.com/shiolive/CS-499/tree/main/Artifacts/Artifact%20One/Artifact%20One%20Improvement)
+View [Artifact One Enhancement Repository](https://github.com/shiolive/CS-499/tree/main/Artifacts/Artifact%20One/Artifact%20One%20Improvement)
 
 
 ### Enhancement Two: Algorithms and Data Structures
@@ -39,7 +41,6 @@ My plan was to increase the complexity of the application itself as well as the 
 
 Before Improvements: 
 
-![Original test coverage- Before Enhancement](assets/img/Artifact2Before.png)
 
 <div style="text-align: center;">
     <a href="https://github.com/shiolive/CS-499-Capstone/blob/main/assets/img/Artifact2Before.png" target="_blank">
@@ -49,8 +50,6 @@ Before Improvements:
 </div>
 
 After Improvements: 
-
-![Test coverage after enhancement](assets/img/Artifact2After.png)
 
 <div style="text-align: center;">
     <a href="https://github.com/shiolive/CS-499-Capstone/blob/main/assets/img/Artifact2After.png" target="_blank">
