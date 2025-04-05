@@ -16,7 +16,7 @@ Professional Self assessment here
 
 Overview of Code Review
 
-[![Watch the video](https://img.youtube.com/vi/S8QaOK-XVL4/maxresdefault.jpg)](https://youtu.be/S8QaOK-XVL4)
+[![Watch the video](https://img.youtube.com/vi/S8QaOK-XVL4/maxresdefault.jpg)](https://youtu.be/S8QaOK-XVL4)]
 
 ### [CS-499 Code Review](https://youtu.be/S8QaOK-XVL4)
 
