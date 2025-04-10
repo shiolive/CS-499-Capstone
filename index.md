@@ -1,13 +1,17 @@
 ## CS-499 ePortfolio
-
+April 17, 2025
 
 ### Introduction
 
 Hello, my name is ShiAnn Rule and I have been in SNHU's Computer Science degree program since August 2021. This page is my final project for CS-499 Capstone and marks my completion of my Bachelor's degreee in Computer Science. 
 
 ### Course Outcomes
-
-List course outcomes represented
+In this ePortfolio I will demonstrate the following course outcomes:
+- Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+- Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+- Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
+- Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
+- Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
 ### Professional Self Assessment
 
