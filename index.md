@@ -5,21 +5,33 @@ April 17, 2025
 
 Hello, my name is ShiAnn Rule and I have been in SNHU's Computer Science degree program since August 2021. This page is my final project for CS-499 Capstone and marks my completion of my Bachelor's degreee in Computer Science. 
 
+### Professional Self Assessment
+
+Completing the Computer Science Bachelors program has been a incredible growing experience, both academically and professionally. Over the course of the program, I have been able to refine the technical knowledge and skills essential to thrive in the computer science field. More importantly, I have gained a clearer understanding of my professional identity and career goals. This ePortfolio provided an opportunity to showcase what I have learned, highlight my technical competencies, and reflect on how my education has prepared me to contribute meaningully in a professional setting.
+
+Throughout my coursework, I engaged with a broad range of topics that collectively contributed to my development as a well-rounded software development professional. I have learned to approach problems systematically and efficiently while addressing real-world challenges. The projects that I have completed during my time at SNHU have allowed me to think critically and design scalable solutions, which are vital skills in software development and systems design. Working through the full software development life cycle, from requirements gathering from stakeholders to deployment, I have become comfortable with version control systems such as Git, collaborative development tools, and agile methodologies. One particularly impactful project was Artifact One in this ePortfolio, where I designed a mobile application for a user to track their weight over time. This enhanced my understanding of UI development and the importance of a robust backend including multiple databases to support the application.
+
+Cybersecurity has been a key focus area. Through hands-on practice and theoretical study, I have developed a solid foundation in secure coding practices. These skills are essential in today's technology landscape, where data breaches and system vulnerabilities can have serious consequences. By integrating security into each stage of development, I am confident in my ability to contibute to building systems that are both functional and secure. 
+
+Equally important to technical proficiency is the ability to collaborate effectively in a team environment. The program emphasized the importance of teamwork, effective communication, and stakeholder involvement. It is important to be able to communicate effectively with stakeholders- both technical and not. I learned how to translate complex technical concepts into language that is accessible and relevant to the intended audience. This skill is crucial in bridging the gap between the development teams and business stakeholders and ensuring that technology solutions align with organizational goals.
+
+As I prepare to enter the next phase of my career, I feel confident in my readiness to contribute meaningfully in the field of computer science. This program has given me a strong technical foundation and reinforced my commitment to lifelong learning, problem-solving, and professional integrity. 
+
+In the following sections, you will find three examples of projects that I have completed in previous courses that I have improved using my skills in data strucutres, software engineering, and databases. You will find the projects both before and after the improvements as well as a thorough discussion of each artifact. These artifacts effectively showcase my skills that I have learned throughout my coursework at SNHU.
+
 ### Course Outcomes
+
 In this ePortfolio I will demonstrate the following course outcomes:
+
 - Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
 - Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
 - Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
 - Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
 - Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
 
-### Professional Self Assessment
-
-Professional Self assessment here
-
 ### Informal Code Review
 
-Overview of Code Review
+The following code review contains all three artifacts shared in this portfolio. I go over each project separately discussing the existing functionality, any errors that will be corrected, and include what I plan to do to enhance the project.
 
 [![Watch the video](https://img.youtube.com/vi/S8QaOK-XVL4/maxresdefault.jpg)](https://youtu.be/S8QaOK-XVL4)
 
