@@ -7,17 +7,17 @@ Hello, my name is ShiAnn Rule and I have been in SNHU's Computer Science degree 
 
 ### Professional Self Assessment
 
-Completing the Computer Science Bachelors program has been a incredible growing experience, both academically and professionally. Over the course of the program, I have been able to refine the technical knowledge and skills essential to thrive in the computer science field. More importantly, I have gained a clearer understanding of my professional identity and career goals. This ePortfolio provided an opportunity to showcase what I have learned, highlight my technical competencies, and reflect on how my education has prepared me to contribute meaningully in a professional setting.
+Completing the Computer Science Bachelors program has been a incredible growing experience, both academically and professionally. Over the course of the program, I have been able to refine the technical knowledge and skills essential to thrive in the computer science field. More importantly, I have gained a clearer understanding of my professional identity and career goals. This ePortfolio provided an opportunity to showcase what I have learned, highlight my technical competencies, and reflect on how my education has prepared me to contribute meaningfully in a professional setting.
 
 Throughout my coursework, I engaged with a broad range of topics that collectively contributed to my development as a well-rounded software development professional. I have learned to approach problems systematically and efficiently while addressing real-world challenges. The projects that I have completed during my time at SNHU have allowed me to think critically and design scalable solutions, which are vital skills in software development and systems design. Working through the full software development life cycle, from requirements gathering from stakeholders to deployment, I have become comfortable with version control systems such as Git, collaborative development tools, and agile methodologies. One particularly impactful project was Artifact One in this ePortfolio, where I designed a mobile application for a user to track their weight over time. This enhanced my understanding of UI development and the importance of a robust backend including multiple databases to support the application.
 
-Cybersecurity has been a key focus area. Through hands-on practice and theoretical study, I have developed a solid foundation in secure coding practices. These skills are essential in today's technology landscape, where data breaches and system vulnerabilities can have serious consequences. By integrating security into each stage of development, I am confident in my ability to contibute to building systems that are both functional and secure. 
+Cybersecurity has been a key focus area. Through hands-on practice and theoretical study, I have developed a solid foundation in secure coding practices. These skills are essential in today's technology landscape, where data breaches and system vulnerabilities can have serious consequences. By integrating security into each stage of development, I am confident in my ability to contribute to building systems that are both functional and secure. 
 
 Equally important to technical proficiency is the ability to collaborate effectively in a team environment. The program emphasized the importance of teamwork, effective communication, and stakeholder involvement. It is important to be able to communicate effectively with stakeholders- both technical and not. I learned how to translate complex technical concepts into language that is accessible and relevant to the intended audience. This skill is crucial in bridging the gap between the development teams and business stakeholders and ensuring that technology solutions align with organizational goals.
 
 As I prepare to enter the next phase of my career, I feel confident in my readiness to contribute meaningfully in the field of computer science. This program has given me a strong technical foundation and reinforced my commitment to lifelong learning, problem-solving, and professional integrity. 
 
-In the following sections, you will find three examples of projects that I have completed in previous courses that I have improved using my skills in data strucutres, software engineering, and databases. You will find the projects both before and after the improvements as well as a thorough discussion of each artifact. These artifacts effectively showcase my skills that I have learned throughout my coursework at SNHU.
+In the following sections, you will find three examples of projects that I have completed in previous courses that I have improved using my skills in data structures, software engineering, and databases. You will find the projects both before and after the improvements as well as a thorough discussion of each artifact. These artifacts effectively showcase my skills that I have learned throughout my coursework at SNHU.
 
 ### Course Outcomes
 
@@ -101,6 +101,7 @@ Diving back into this project, I had to refresh my knowledge of Python as it was
         <img src="assets/img/DashboardBottom.png" width="720px" title="" />
     </a>
 </div>
+
 
 View [Artifact Three Original](https://github.com/shiolive/CS-499-Capstone/tree/main/Artifacts/Artifact%20Three/Artifact%20Three%20Original)
 
