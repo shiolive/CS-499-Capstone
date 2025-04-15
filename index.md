@@ -84,7 +84,13 @@ View [Artifact Two Enhancement](https://github.com/shiolive/CS-499-Capstone/tree
 
 ### Enhancement Three: Databases
 
-Overview
+This artifact was first created in August, 2024 for CS-340: Programming Concepts. This project utilizes a MongoDB database containing animal shelter records and outputs that data in a dashboard format that is available to interact with by filtering data, viewing a map to determine the locations of the animals and searching for animals that are meet the requirements for various rescue animal needs, such as water, disaster, and mountain rescues. I chose this project because the interaction with the database and the ability to search it was extremely limited and could be greatly improved upon. I wanted to improve the search functionality and the way that it displays in the graph on the dashboard and enhance the UI by giving the user the ability to add records on the dashboard, which is new functionality.  
 
-Link to resource
+I succeeded in improving the user interactions with the database by enhancing the search methods so they are more streamlined as well as adding the UI functionality to add new animals to the database. These improve the usability of the dashboard as well as the MongoDB itself. This functionality is important in an application like this one where the sole purpose is to interact with and manage database records.  
+
+Diving back into this project, I had to refresh my knowledge of Python as it was one of the first languages I learned, but I have not interacted with it much except for this one class in several years. It was also difficult to setup to get functional because the original environment that I worked on it was a pre-built virtual machine that I had every tool already installed for me. The most difficult part of this project was making it functional to test the code on my own computer with limited memory of what tools were used and how to set them up again. This made me realize how important the proper IDE is and that I need to pay attention to the proper setups moving forward. Documentation on setting up these projects would help as well. Most classes require a README file to accompany the final projects but never suggested documenting the tools used in detail, which would be helpful in hindsight. 
+
+View [Artifact Three Original]()
+
+View [Artifact Three Enhancement] ()
 
