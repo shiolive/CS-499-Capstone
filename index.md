@@ -3,7 +3,7 @@ April 17, 2025
 
 ### Introduction
 
-Hello, my name is ShiAnn Rule and I have been in SNHU's Computer Science degree program since August 2021. This page is my final project for CS-499 Capstone and marks my completion of my Bachelor's degreee in Computer Science. 
+Hello, my name is ShiAnn Rule and I have been in SNHU's Computer Science degree program since August 2021. This page is my final project and ePortfolio for CS-499 Capstone and marks my completion of my Bachelor's degree in Computer Science.
 
 ### Professional Self Assessment
 
