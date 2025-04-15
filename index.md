@@ -35,7 +35,7 @@ The following code review contains all three artifacts shared in this portfolio.
 
 [![Watch the video](https://img.youtube.com/vi/S8QaOK-XVL4/maxresdefault.jpg)](https://youtu.be/S8QaOK-XVL4)
 
-### [CS-499 Code Review](https://youtu.be/S8QaOK-XVL4)
+#### [CS-499 Code Review](https://youtu.be/S8QaOK-XVL4)
 
 
 ### Enhancement One: Software Design and Engineering
@@ -57,7 +57,7 @@ This artifact is a JUnit test case on a CRUD Java application that interacts wit
 
 My plan was to increase the complexity of the application itself as well as the tests. I also planned to increase the coverage and fill the gaps in the tests to ensure that the application was well rounded and thoroughly tested. To complete this, I reviewed each java class alongside the associated test classes and identified numerous logic errors and gaps in the testing. A common error that I found were that I created the tests to test for successes in adding and updating the data, but I did not test to see if there were failures. By correcting this gap in logic, I was able to identify issues in the application structure itself as well. I corrected all of these errors and rewrote all of the tests for the program to make them more complex and more thorough. My coverage overall went from 78.6% to 92.7% with significant increases in coverage in the individual Java classes. 
 
-Before Improvements: 
+#### Before Improvements: 
 
 
 <div style="text-align: center;">
@@ -67,7 +67,7 @@ Before Improvements:
     <p><em>Original test coverage- Before Enhancement</em></p>
 </div>
 
-After Improvements: 
+#### After Improvements: 
 
 <div style="text-align: center;">
     <a href="https://github.com/shiolive/CS-499-Capstone/blob/main/assets/img/Artifact2After.png" target="_blank">
@@ -86,9 +86,21 @@ View [Artifact Two Enhancement](https://github.com/shiolive/CS-499-Capstone/tree
 
 This artifact was first created in August, 2024 for CS-340: Programming Concepts. This project utilizes a MongoDB database containing animal shelter records and outputs that data in a dashboard format that is available to interact with by filtering data, viewing a map to determine the locations of the animals and searching for animals that are meet the requirements for various rescue animal needs, such as water, disaster, and mountain rescues. I chose this project because the interaction with the database and the ability to search it was extremely limited and could be greatly improved upon. I wanted to improve the search functionality and the way that it displays in the graph on the dashboard and enhance the UI by giving the user the ability to add records on the dashboard, which is new functionality.  
 
-I succeeded in improving the user interactions with the database by enhancing the search methods so they are more streamlined as well as adding the UI functionality to add new animals to the database. These improve the usability of the dashboard as well as the MongoDB itself. This functionality is important in an application like this one where the sole purpose is to interact with and manage database records.  
+I succeeded in improving the user interactions with the database by enhancing the search methods so they are more streamlined as well as adding the UI functionality to add new animals to the database. These improve the usability of the dashboard as well as the MongoDB itself. This functionality is important in an application like this one where the sole purpose is to interact with and manage database records.
 
 Diving back into this project, I had to refresh my knowledge of Python as it was one of the first languages I learned, but I have not interacted with it much except for this one class in several years. It was also difficult to setup to get functional because the original environment that I worked on it was a pre-built virtual machine that I had every tool already installed for me. The most difficult part of this project was making it functional to test the code on my own computer with limited memory of what tools were used and how to set them up again. This made me realize how important the proper IDE is and that I need to pay attention to the proper setups moving forward. Documentation on setting up these projects would help as well. Most classes require a README file to accompany the final projects but never suggested documenting the tools used in detail, which would be helpful in hindsight. 
+
+<div style="text-align: center;">
+    <a href="https://github.com/shiolive/CS-499-Capstone/blob/main/assets/img/DashboardTop.png" target="_blank">
+        <img src="assets/img/DashboardTop.png" width="720px" title="" />
+    </a>
+</div>
+
+<div style="text-align: center;">
+    <a href="https://github.com/shiolive/CS-499-Capstone/blob/main/assets/img/DashboardBottom.png" target="_blank">
+        <img src="assets/img/DashboardBottom.png" width="720px" title="" />
+    </a>
+</div>
 
 View [Artifact Three Original](https://github.com/shiolive/CS-499-Capstone/tree/main/Artifacts/Artifact%20Three/Artifact%20Three%20Original)
 
