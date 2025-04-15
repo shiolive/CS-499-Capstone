@@ -76,9 +76,9 @@ My plan was to increase the complexity of the application itself as well as the 
     <p><em>Test coverage after enhancement</em></p>
 </div>
 
-View [Artifact Two Original](https://github.com/shiolive/CS-499-Capstone/tree/main/Artifacts/Artifact%20Two/Artifact2Original/CS-320-main/CS320%20ProjectOne)
+View [Artifact Two Original](https://github.com/shiolive/CS-499-Capstone/tree/main/Artifacts/Artifact%20Two/Artifact2Original)
 
-View [Artifact Two Enhancement](https://github.com/shiolive/CS-499-Capstone/tree/main/Artifacts/Artifact%20Two/Artifact2Improvement/Artifact2Improvement)
+View [Artifact Two Enhancement](https://github.com/shiolive/CS-499-Capstone/tree/main/Artifacts/Artifact%20Two/Artifact2Improvement/src)
 
 
 
