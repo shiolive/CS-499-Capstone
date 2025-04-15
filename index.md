@@ -90,7 +90,7 @@ I succeeded in improving the user interactions with the database by enhancing th
 
 Diving back into this project, I had to refresh my knowledge of Python as it was one of the first languages I learned, but I have not interacted with it much except for this one class in several years. It was also difficult to setup to get functional because the original environment that I worked on it was a pre-built virtual machine that I had every tool already installed for me. The most difficult part of this project was making it functional to test the code on my own computer with limited memory of what tools were used and how to set them up again. This made me realize how important the proper IDE is and that I need to pay attention to the proper setups moving forward. Documentation on setting up these projects would help as well. Most classes require a README file to accompany the final projects but never suggested documenting the tools used in detail, which would be helpful in hindsight. 
 
-View [Artifact Three Original]()
+View [Artifact Three Original](https://github.com/shiolive/CS-499-Capstone/tree/main/Artifacts/Artifact%20Three/Artifact%20Three%20Original)
 
-View [Artifact Three Enhancement] ()
+View [Artifact Three Enhancement](https://github.com/shiolive/CS-499-Capstone/tree/main/Artifacts/Artifact%20Three/Artifact%20Three%20Improvement)
 
